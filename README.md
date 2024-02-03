@@ -1,4 +1,7 @@
 # Combined Sensors IoT Project
+<p align="center">
+<img src="https://www.canva.com/design/DAF7sWE_8JQ/CLJgn5KO57s7CKenZHB6Jg/edit?utm_content=DAF7sWE_8JQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="logo">
+</p>
 
 ## Introduction
 
