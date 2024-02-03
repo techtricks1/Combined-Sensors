@@ -59,7 +59,7 @@ python combined_sensors.py
 
 - Adjust the threshold values (`TEMP_THRESHOLD_HIGH`, `TEMP_THRESHOLD_LOW`, `LIGHT_THRESHOLD_HIGH`, `LIGHT_THRESHOLD_LOW`) in the code based on your specific requirements.
 - Modify the sleep duration (`time.sleep(5)`) in the main loop to change the frequency of sensor readings.
-- 
+  
 ### Note 
 
 - if you would like to use the code replace the ```conf.py``` credentials with your actual credentials.
