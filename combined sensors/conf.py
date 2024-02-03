@@ -1,0 +1,9 @@
+SID = 'AC93463c364e04e09e47b92aaa2291c5bd'
+AUTH_TOKEN = '5f5bf33ec7fe151ff784178b55ec3a08'
+FROM_NUMBER ='+12064721661'
+TO_NUMBER ='+918639470630'
+API_KEY = 'aa30ba6d-e7c1-4dfe-b594-cc3186ddddf0'
+DEVICE_ID = 'BOLT6337362'
+telegram_chat_id = "@biot102"            # This is the channel ID of the created Telegram channel. Paste after @ symbol.
+telegram_bot_id = "bot6792253125:AAHAvuWUMhAdWkK9NFAXzy7mkXR2lqpiFeo"           # This is the bot ID of the created Telegram Bot. Paste after bot text.
+threshold = 250                       # Threshold beyond which the alert should be sent
