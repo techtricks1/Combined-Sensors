@@ -1,6 +1,8 @@
 # Combined Sensors IoT Project
 
-![Combined sensors](https://github.com/techtricks1/Combined-Sensors/blob/main/COMBINED%20SENSORS.png)
+<p align="center">
+  <img src="[https://github.com/techtricks1/Combined-Sensors/blob/main/COMBINED%20SENSORS.png](https://www.canva.com/design/DAF7sjrUNaA/MEtfZRHtgCd8L9H62zo_8A/edit?utm_content=DAF7sjrUNaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="logo" width="800">
+</p>
 
 ## Introduction
 
