@@ -1,9 +1,5 @@
 # Combined Sensors IoT Project
 
-<p align="center">
-  <img src="[https://github.com/techtricks1/Combined-Sensors/blob/main/COMBINED%20SENSORS.png](https://www.canva.com/design/DAF7sjrUNaA/MEtfZRHtgCd8L9H62zo_8A/edit?utm_content=DAF7sjrUNaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="logo" width="800">
-</p>
-
 ## Introduction
 
 The Combined Sensors IoT Project is a versatile system that utilizes Bolt IoT devices along with temperature and light sensors to monitor environmental conditions. It triggers alerts via SMS and controls an LED based on predefined threshold values.
@@ -63,7 +59,11 @@ python combined_sensors.py
 
 - Adjust the threshold values (`TEMP_THRESHOLD_HIGH`, `TEMP_THRESHOLD_LOW`, `LIGHT_THRESHOLD_HIGH`, `LIGHT_THRESHOLD_LOW`) in the code based on your specific requirements.
 - Modify the sleep duration (`time.sleep(5)`) in the main loop to change the frequency of sensor readings.
+- 
+### Note 
 
+- if you would like to use the code replace the ```conf.py``` credentials with your actual credentials.
+- 
 ## Contributing
 
 Contributions to this project are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
