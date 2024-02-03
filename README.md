@@ -1,7 +1,4 @@
 # Combined Sensors IoT Project
-<p align="center">
-<img src="https://www.canva.com/design/DAF7sWE_8JQ/CLJgn5KO57s7CKenZHB6Jg/edit?utm_content=DAF7sWE_8JQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="logo">
-</p>
 
 ## Introduction
 
@@ -46,7 +43,7 @@ The Combined Sensors IoT Project has various potential applications, including:
 
 ## Setup
 
-1. Connect the sensors and components according to the provided documentation.
+1. Connect the sensors and components according to the [provided documentation](https://github.com/techtricks1/Combined-Sensors/blob/main/combined%20sensors/Comined%20Sensors.pdf).
 2. Update the `conf.py` file with your actual Bolt IoT API key, device ID, and Twilio credentials for SMS alerts.
 3. Ensure that the necessary Python libraries (`boltiot`, `twilio`) are installed.
 
@@ -62,10 +59,6 @@ python combined_sensors.py
 
 - Adjust the threshold values (`TEMP_THRESHOLD_HIGH`, `TEMP_THRESHOLD_LOW`, `LIGHT_THRESHOLD_HIGH`, `LIGHT_THRESHOLD_LOW`) in the code based on your specific requirements.
 - Modify the sleep duration (`time.sleep(5)`) in the main loop to change the frequency of sensor readings.
-  
-### Note 
-
-- if you would like to use the code replace the ```conf.py``` credentials with your actual credentials.
   
 ## Contributing
 
