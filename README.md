@@ -63,7 +63,7 @@ python combined_sensors.py
 ### Note 
 
 - if you would like to use the code replace the ```conf.py``` credentials with your actual credentials.
-- 
+  
 ## Contributing
 
 Contributions to this project are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
