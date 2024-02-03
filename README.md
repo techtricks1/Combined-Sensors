@@ -1,4 +1,5 @@
 # Combined Sensors IoT Project
+<p align="center"><img src="https://github.com/techtricks1/Combined-Sensors/blob/main/combined%20sensors/logo.png" alt="logo"></p>
 
 ## Introduction
 
